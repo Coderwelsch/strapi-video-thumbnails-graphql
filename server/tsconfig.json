@@ -1,0 +1,15 @@
+{
+  "extends": "@strapi/typescript-utils/tsconfigs/server",
+  "include": ["./src"],
+  "compilerOptions": {
+    "rootDir": "../",
+    "baseUrl": ".",
+	  "lib": [
+		  "decorators",
+		  "dom",
+		  "es5",
+		  "scripthost",
+		  "es2015.promise"
+	  ]
+  }
+}
