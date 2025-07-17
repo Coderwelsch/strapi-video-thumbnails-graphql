@@ -6,6 +6,5 @@ export default {
 		thumbnailQuality: 2,
 		timeOffset: "00:00:01",
 	},
-	validator () {
-	},
-};
+	validator() {},
+}

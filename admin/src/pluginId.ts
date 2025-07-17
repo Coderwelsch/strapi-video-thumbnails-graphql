@@ -1,1 +1,1 @@
-export const PLUGIN_ID = 'video-thumbnails';
+export const PLUGIN_ID = "video-thumbnails"
