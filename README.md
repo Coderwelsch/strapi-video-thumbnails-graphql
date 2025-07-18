@@ -1,4 +1,6 @@
-<img src="./docs/logo.png" alt="Strapi Video Thumbnails Plugin" style="display: block; margin: 1rem auto; width: 150px;" />
+<div style="text-align: center;">
+	<img src="./docs/logo.png" alt="Strapi Video Thumbnails Plugin" style="display: block; margin: 1rem auto; width: 150px;" />
+</div>
 
 # Video Thumbnails GraphQl Plugin for Strapi
 
