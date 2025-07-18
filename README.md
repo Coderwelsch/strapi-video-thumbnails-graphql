@@ -1,6 +1,12 @@
-# Video Thumbnails GraphQL Plugin for Strapi
+<img src="./docs/logo.png" alt="Strapi Video Thumbnails Plugin" style="display: block; margin: 1rem auto; width: 150px;" />
+
+# Video Thumbnails GraphQl Plugin for Strapi
+
+![NPM Version](https://img.shields.io/npm/v/strapi-graphql-video-thumbnails) ![GitHub License](https://img.shields.io/github/license/Coderwelsch/strapi-video-thumbnails-graphql)
 
 This plugin extends the GraphQL API to provide video thumbnail generation capabilities. It allows users to request thumbnails for videos stored in the public folder.
+
+![GraphQL Query Example](./docs/example-query.png)
 
 ## Requirements
 
