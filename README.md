@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p style="text-align: center;">
 	<img src="./docs/logo.png" alt="Strapi Video Thumbnails Plugin" style="display: block; margin: 1rem auto; width: 150px;" />
-</div>
+</p>
 
 # Video Thumbnails GraphQl Plugin for Strapi
 
