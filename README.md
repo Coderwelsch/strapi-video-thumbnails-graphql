@@ -1,4 +1,4 @@
-# Video Thumbnails GraphQl Plugin for Strapi
+# Video Thumbnails GraphQL Plugin for Strapi
 
 This plugin extends the GraphQL API to provide video thumbnail generation capabilities. It allows users to request thumbnails for videos stored in the public folder.
 
