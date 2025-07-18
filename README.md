@@ -36,7 +36,7 @@ Edit strapi’s `config/plugins.js` file to enable the video thumbnails plugin l
 
 ```typescript
 export default () => ({
-	// { Other plugins … }
+	// { Other plugins like graphql setup … }
 	"video-thumbnails": {
 		enabled: true,
 		config: {
@@ -51,7 +51,7 @@ export default () => ({
 
 ## Usage
 
-To use this plugin, you need to make a GraphQL query to the `videoThumbnails` endpoint. The plugin will generate thumbnails for the specified video and return the URLs of the generated thumbnails.
+To use this plugin, you need to make a GraphQL query to the `uploadFiles` fields coming from strapi. The plugin will generate thumbnails for the specified video and return the URLs of the generated thumbnails.
 
 ```graphql
 # Example GraphQL query to get video thumbnails
